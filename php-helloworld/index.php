@@ -1,4 +1,4 @@
 <?php
-print "RED HAT Openshift \n";
-print "Hello from IBM World! Openshift class with php version is " . PHP_VERSION . "\n";
+print "Welcome to IBM RED HAT Openshift world \n";
+print "Php version is " . PHP_VERSION . "\n";
 ?>
